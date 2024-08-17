@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá sejam bem vindos ao meu Github 👋
 
 <!--
 **marianapa1va/marianapa1va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> Oi, eu me chamo Mariana Paiva, sou de Osasco-SP. Atualmente estou cusando o curso de Desenvolvimento Mobile na Instituição Senac, em parceria com o Instituto Proa. Com a tecnologia, planejo me destacar no mercado com a criação de projetos que possam ajudar as pessoas quanto diversas áreas necessitadas.

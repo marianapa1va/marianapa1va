@@ -1,4 +1,4 @@
-## Olá sejam bem vindos ao meu Github 👋
+## Olá, sejam bem-vindos ao meu Github 👋
 
 <!--
 **marianapa1va/marianapa1va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
